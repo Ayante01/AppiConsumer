@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ApiConsumer</string>
+    <string name="day">Buenos dias</string>
+    <string name="afternoon">Buenas tardes</string>
+    <string name="night">Buenas noches</string>
+    <string name="minmax">%1$s° | %2$s°</string>
+    <string name="temperature">%1$s°</string>
+    <string name="change_location">Change Location</string>
+    <string name="city">City</string>
+    <string name="change">Change</string>
+</resources>
